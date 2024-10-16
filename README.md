@@ -1,4 +1,4 @@
-*Pelastakaa kolme pientä possua! *
+*Pelastakaa kolme pientä possua!*
 
 Olethan kuullut lapsuuden aikana tarinan - Kolmen pientä porsasta? Pelastakaa kolme pientä possua! - pelin tarkoituksena on edistää pelaajan laskutaitojaan harjoittelemalla yhteenlaskuja, miinuslaskuja sekä kertolaskuja. 
 Pelin sääntö on selkeä. Jokaisen laskuosion kohdalla on kymmenen lasku ja pelaajan tulee laskea kaikki laskut oikein, jotta possu tulisi pelastetuksi. Pelin ideana on motivoida erityisesti kouluikäisiä laskuharjoituksiin.    
