@@ -1,0 +1,149 @@
+html {
+    background-repeat:inherit; 
+    background-position: center; 
+    background-size: cover;
+}
+
+@media only screen and (max-width: 1200px) {
+    #sisalto1 {
+        flex-direction: column;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    #sisalto1 {
+        flex-direction: row;
+    }
+}
+
+body {
+    padding: 1em;
+}
+
+#sisalto {
+    background-color: antiquewhite;
+    padding: 10em;
+    text-align: center;
+}
+
+h1 {
+    font-style: italic;
+    font-size: 60px;
+}
+
+#etusivup p{
+    font-size: 30px;
+}
+
+#nappi {
+    background-color: antiquewhite;
+    font-size: 130px;
+    border: none;
+}
+
+#nappi a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#buttontext {
+    font-style: italic;
+}
+
+#nappi a:hover {
+    font-size: 150px;
+}
+
+#sisalto1, #sisalto2 {
+    background-color: antiquewhite;
+    padding-top: 0%;
+    padding-left: 10em;
+    padding-right: 10em;
+    padding-bottom: 15em;
+    text-align: center;
+}
+
+h2 {
+    font-style: italic;
+    font-size: 60px;
+    padding: 0%;
+}
+
+#kuviot {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    font-size: 80px;
+    margin: 0%;
+    padding: 0%;
+}
+
+
+#repliikit {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#sudenrepliikki {
+    background-color: white;
+    border-radius: 25px;
+    border: 2px solid black;
+
+}
+
+#possunrepliikki {
+    background-color: white;
+    border-radius: 25px;
+    border: 2px solid black;
+}
+
+#laskut {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    font-size: 35px;
+    padding: 15px;
+}
+
+#tuloksetlokero p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+#tuloksetlokero {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    margin: 15px;
+}
+
+#nappi1 {
+    background-color: antiquewhite;
+    font-size: 130px;
+    border: none;
+}
+
+#nappi1 a{
+    text-decoration: none;
+    cursor: pointer;
+}
+
+#nappi1 a:hover {
+    font-size: 150px;
+}
+
+#yhteenvetoteksti {
+    font-size: 30px;
+}
+
+#nappi2 {
+    background-color: antiquewhite;
+    font-size: 130px;
+    border: none;
+}
+
+#nappi3 {
+    background-color: antiquewhite;
+    font-size: 130px;
+    border: none;
+}
